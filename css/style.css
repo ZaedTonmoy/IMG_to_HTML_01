@@ -190,6 +190,7 @@ nav ul li a:hover{
 .about2 .top_a2{
     background-color: #0C1019;
     padding: 20px;
+    border-radius: 5%;
 }
 .about2 img{
     display: inline-block;
